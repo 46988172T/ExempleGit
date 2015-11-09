@@ -2,5 +2,6 @@
     <string name="app_name">ExempleGit</string>
 
     <string name="hello_world">Hello world! Aquest será el text amb el que farem el primer commit!</string>
+    <string name="segunda">Segon commit!</string>
     <string name="action_settings">Settings</string>
 </resources>
